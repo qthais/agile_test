@@ -1,3 +1,12 @@
+---
+name: User story
+about: user story description
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
